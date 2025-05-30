@@ -31,13 +31,6 @@ Tenho experiência com desenvolvimento de plugins para Minecraft, aplicações w
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilzeldris&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilzeldris&layout=compact&theme=radical)
-
----
-
 ## 📫 Contato
 
 - ✉️ E-mail: felipedantas1001@gmail.com
